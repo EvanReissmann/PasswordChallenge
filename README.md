@@ -15,4 +15,4 @@ For the third challenge of bootcamp we had to create a password generator and us
 
 URL: https://evanreissmann.github.io/PasswordChallenge/
 
-![Home Page](https://github.com/EvanReissmann/PasswordChallenge/raw/main/img/HomePage.png)
+![Home Page](https://github.com/EvanReissmann/PasswordChallenge/raw/assets/img/HomePage.png)
